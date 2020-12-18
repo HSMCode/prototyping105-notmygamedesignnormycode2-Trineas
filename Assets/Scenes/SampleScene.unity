@@ -132,6 +132,7 @@ GameObject:
   - component: {fileID: 140227187}
   - component: {fileID: 140227188}
   - component: {fileID: 140227189}
+  - component: {fileID: 140227190}
   m_Layer: 0
   m_Name: Square (8)
   m_TagString: Untagged
@@ -229,6 +230,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &140227190
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 140227186}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a49c1f00346c9b4092b75499e369cc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &360474619
 GameObject:
   m_ObjectHideFlags: 0
@@ -731,6 +744,7 @@ GameObject:
   - component: {fileID: 675069950}
   - component: {fileID: 675069951}
   - component: {fileID: 675069952}
+  - component: {fileID: 675069953}
   m_Layer: 0
   m_Name: Square (7)
   m_TagString: Untagged
@@ -828,6 +842,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &675069953
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 675069949}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a49c1f00346c9b4092b75499e369cc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &714498517
 GameObject:
   m_ObjectHideFlags: 0
@@ -839,6 +865,7 @@ GameObject:
   - component: {fileID: 714498518}
   - component: {fileID: 714498519}
   - component: {fileID: 714498520}
+  - component: {fileID: 714498521}
   m_Layer: 0
   m_Name: Square (1)
   m_TagString: Untagged
@@ -936,6 +963,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &714498521
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 714498517}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a49c1f00346c9b4092b75499e369cc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &788917288
 GameObject:
   m_ObjectHideFlags: 0
@@ -1241,6 +1280,7 @@ GameObject:
   - component: {fileID: 885203204}
   - component: {fileID: 885203205}
   - component: {fileID: 885203206}
+  - component: {fileID: 885203207}
   m_Layer: 0
   m_Name: Square (6)
   m_TagString: Untagged
@@ -1338,6 +1378,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &885203207
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 885203203}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a49c1f00346c9b4092b75499e369cc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1078379033
 GameObject:
   m_ObjectHideFlags: 0
@@ -1591,6 +1643,7 @@ GameObject:
   - component: {fileID: 1260739601}
   - component: {fileID: 1260739602}
   - component: {fileID: 1260739603}
+  - component: {fileID: 1260739604}
   m_Layer: 0
   m_Name: Square (2)
   m_TagString: Untagged
@@ -1688,6 +1741,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &1260739604
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1260739600}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a49c1f00346c9b4092b75499e369cc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1359850188
 GameObject:
   m_ObjectHideFlags: 0
@@ -1699,6 +1764,7 @@ GameObject:
   - component: {fileID: 1359850189}
   - component: {fileID: 1359850190}
   - component: {fileID: 1359850191}
+  - component: {fileID: 1359850192}
   m_Layer: 0
   m_Name: Square (3)
   m_TagString: Untagged
@@ -1796,6 +1862,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &1359850192
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1359850188}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a49c1f00346c9b4092b75499e369cc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1377065686
 GameObject:
   m_ObjectHideFlags: 0
@@ -1807,6 +1885,7 @@ GameObject:
   - component: {fileID: 1377065687}
   - component: {fileID: 1377065688}
   - component: {fileID: 1377065689}
+  - component: {fileID: 1377065690}
   m_Layer: 0
   m_Name: Square (5)
   m_TagString: Untagged
@@ -1904,6 +1983,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &1377065690
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1377065686}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a49c1f00346c9b4092b75499e369cc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1483657421
 GameObject:
   m_ObjectHideFlags: 0
@@ -2173,6 +2264,7 @@ GameObject:
   - component: {fileID: 1744885870}
   - component: {fileID: 1744885871}
   - component: {fileID: 1744885872}
+  - component: {fileID: 1744885873}
   m_Layer: 0
   m_Name: Square (4)
   m_TagString: Untagged
@@ -2270,6 +2362,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &1744885873
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1744885869}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a49c1f00346c9b4092b75499e369cc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1771020973
 GameObject:
   m_ObjectHideFlags: 0
